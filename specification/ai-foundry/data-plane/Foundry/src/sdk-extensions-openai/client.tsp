@@ -57,7 +57,7 @@ namespace Azure.AI.Projects {
   @@clientName(CreatedBy, "AgentResponseItemSource");
   @@clientName(FabricDataAgentToolParameters, "FabricDataAgentToolOptions");
 
-  @@clientName(MemorySearchToolCallItemResource,
+  @@clientName(MemorySearchToolCall,
     "MemorySearchToolCallResponseItem"
   );
   @@clientName(OAuthConsentRequestOutputItem,
